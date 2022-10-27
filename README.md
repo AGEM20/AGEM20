@@ -3,6 +3,9 @@
 - 🌱 Atualmente estou aprendendo e desenvolvendo novas habilidades em Desenvolvimento Back-End
 - 💞️ Procuro colaborar 
 - 📫Como chegar até mim https://www.linkedin.com/in/alberto-rodrigues-lopes-pcd-791b4427/
+- ## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- 
+                    
 
 <!---
 AGEM20/AGEM20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
