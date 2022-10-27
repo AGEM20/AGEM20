@@ -1,6 +1,6 @@
 ## Olá👋
 
-Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou engenheiro de software do Brasil, atualmente trabalhando no Brasil na [@avanade](https://github.com/avanade)! 
+Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou Back-End Developer JR, atualmente trabalhando na [@avanade](https://github.com/avanade)! 
 
 
 ## Frontend & Design
