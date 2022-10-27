@@ -1,13 +1,24 @@
-- 👋 Olá! Bem vindo ao meu perfil do Github.## Meu nome é Alberto Rodrigues Lopes e meu apelido é "AGEM20"!
-- 👀 Estou interessado em compartilhar e adquirir novas habilidades !!
-- 🌱 Atualmente estou aprendendo e desenvolvendo novas habilidades em Desenvolvimento Back-End
-- 💞️ Procuro colaborar 
-- 📫Como chegar até mim https://www.linkedin.com/in/alberto-rodrigues-lopes-pcd-791b4427/
-- ## Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-- 
-                    
+## Olá👋
 
-<!---
-AGEM20/AGEM20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou engenheiro de software do Brasil, atualmente trabalhando no Brasil na [@avanade](https://github.com/avanade)! 
+
+
+## Frontend & Design
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Angular.js" src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
+
+## Backend
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+
+## Banco de dados
+<img src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+
+## Cloud 
+<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+
+
+## 📫 Como chegar até mim
+
+Adoro falar com as pessoas e discutir tecnologia! Você pode me alcançar em todos os canais abaixo!
+
+
+
