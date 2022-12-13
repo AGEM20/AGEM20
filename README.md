@@ -17,9 +17,6 @@ Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou Back-End Developer JR, atual
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
 
 
-## 📫 Como chegar até mim
-
-Adoro falar com as pessoas e discutir tecnologia! Você pode me alcançar em todos os canais abaixo!
 
 
 
