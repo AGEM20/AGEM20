@@ -1,7 +1,6 @@
 ## Olá👋
 
-Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou Back-End Developer JR, atualmente trabalhando na [@avanade](https://github.com/avanade)! 
-
+Meu nome é Alberto Rodrigues Lopes (ele/dele). Sou Back-End Developer !!
 
 ## Frontend
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Angular.js" src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
